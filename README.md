@@ -1,1 +1,1 @@
-# Woo-Node-SDK
+# Woo-JS-SDK
